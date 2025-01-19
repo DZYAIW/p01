@@ -7,7 +7,7 @@ class TextFileMerger:
     def __init__(self):
         # 创建主窗口
         self.window = tk.Tk()
-        self.window.title("文本文件合并工具1")
+        self.window.title("文本文件合并工具2")
         self.window.geometry("400x300")
 
         # 存储选中的文件路径
